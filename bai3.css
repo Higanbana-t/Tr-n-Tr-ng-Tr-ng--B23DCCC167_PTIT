@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    
+
+
+}
+.CV {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+.thongtin  {
+    margin: 10px 0;
+}
+.thongtin h2 {
+    background-color: #e9ecef;
+    padding: 10px;
+}
+.thongtin p {
+    margin: 0 10px;
+}
+.thongtin1{
+    background-color: aquamarine;
+    margin: 10px 0;
+    height: 800px;
+    width: 400px;
+
+}
